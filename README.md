@@ -45,7 +45,7 @@
 <br />
 <br />
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyimShivam&theme=graywhite&show_icons=true)
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaptianJack0001&theme=graywhite&show_icons=true)
 
 
 [mail]: mailto:saishivamkaushal0001@gmail.com
